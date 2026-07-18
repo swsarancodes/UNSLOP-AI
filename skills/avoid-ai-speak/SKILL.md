@@ -2,8 +2,8 @@
 name: avoid-ai-speak
 description: Write like a person, not a language model. Blocklist of AI-speak phrases and patterns (sycophancy, "not X but Y" contrast, em dashes, hype words like delve/robust/seamless, filler transitions, recap closers) with rules for avoiding them. Use when writing or editing any prose a human will read — chat replies, docs, READMEs, commit messages, PR descriptions, emails, posts — or when asked to "humanize", de-slop, or make text sound less like AI.
 metadata:
-  author: chitalian
-  source: https://github.com/chitalian/offensive-ai-speak
+  author: swsarancodes
+  source: https://github.com/swsarancodes/UNSLOP-AI
 ---
 
 # Avoid AI Speak
